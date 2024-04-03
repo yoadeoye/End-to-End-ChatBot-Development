@@ -50,10 +50,3 @@ interface for a machine learning application where users can interact with the c
 on the web without the backend code.
 
 
-# Streamlit for real time Sentiment Analysis
-= Streamlit is an open source python module or framework for creating and designing custom based application
-for machine leaning and data science.
-
-#To run streamlit
-
-1. streamlit run your_script.py
