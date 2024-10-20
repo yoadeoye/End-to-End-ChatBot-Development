@@ -49,7 +49,7 @@ This is where we prepare the intents and train an ML for the chatbot
 
 [![Watch the video](https://github.com/user-attachments/assets/f7eb58c9-d278-432e-a5de-08422d65cae5.jpg)](https://www.loom.com/share/3755ef1bcdbd4e28b9fb6b91b1eb2850?t=91&sid=6694965d-7d23-4439-99e6-601c3f2cae81)
 
-![image](https://github.com/user-attachments/assets/f7eb58c9-d278-432e-a5de-08422d65cae5)
+
 
 
 !https://www.loom.com/share/3755ef1bcdbd4e28b9fb6b91b1eb2850?t=91&sid=6694965d-7d23-4439-99e6-601c3f2cae81
