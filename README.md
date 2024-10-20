@@ -1,4 +1,6 @@
 # End-to-End-ChatBot-Development
+![image](https://github.com/user-attachments/assets/60851fc4-dcf9-4da9-aeb5-7f05f9b98b27)
+
 A streamlit application for new car purchase chatbot in the UK in 2024
 ### End to End ChatBot Development using Streamlit
   An END to END ChatBOt is simply the creation of a computer programme to handle conversation(based on a subject) from start to Finish. To achieve one needs to choose a programming language or NLP tools, collect the data(which includes the knowledge based), use the data to train and refine the chatbot, then deploy the chatbot on medium like whatsapp, telegram etc for user accessibility.This chatbot efficiency is limited to the data used to train it and can only perform like the LLM such as chatGPT using RAG(Retrieval Augmented Generation).
@@ -44,6 +46,14 @@ This is where we prepare the intents and train an ML for the chatbot
 
 
 ===Deploy the Car ChatBot Using STREAMLIT
+
+[![Watch the video](https://github.com/user-attachments/assets/f7eb58c9-d278-432e-a5de-08422d65cae5.jpg)](https://www.loom.com/share/3755ef1bcdbd4e28b9fb6b91b1eb2850?t=91&sid=6694965d-7d23-4439-99e6-601c3f2cae81)
+
+![image](https://github.com/user-attachments/assets/f7eb58c9-d278-432e-a5de-08422d65cae5)
+
+
+!https://www.loom.com/share/3755ef1bcdbd4e28b9fb6b91b1eb2850?t=91&sid=6694965d-7d23-4439-99e6-601c3f2cae81
+
 
 Streamlit as mentioned above is used for the end to end chatbot deployment and it involves creating an
 interface for a machine learning application where users can interact with the chatbot as an application
